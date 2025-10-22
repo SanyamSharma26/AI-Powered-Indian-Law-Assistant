@@ -129,7 +129,7 @@ Open your browser at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 **Sanyam Sharma**  
 B.E. Computer Engineering – Thapar Institute of Engineering & Technology (TIET), Patiala  
-📫 [GitHub](https://github.com/SanyamSharma26) • [LinkedIn](https://linkedin.com/in/sanyamsharma26)  
+📫 [GitHub](https://github.com/SanyamSharma26) • [LinkedIn](www.linkedin.com/in/sanyam-sharma-15ab50288)  
 
 ---
 
