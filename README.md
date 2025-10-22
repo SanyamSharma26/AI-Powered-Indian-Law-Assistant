@@ -133,11 +133,5 @@ B.E. Computer Engineering – Thapar Institute of Engineering & Technology (TIET
 
 ---
 
-## 🪪 License
-
-This project is licensed under the **MIT License** — you’re free to use and modify it for educational or research purposes.
-
----
-
 > ⚖️ *“Empowering justice through intelligent automation.”*
 
