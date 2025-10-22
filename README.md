@@ -1,10 +1,5 @@
 # ⚖️ LegalAI – AI-Powered Legal Document Summarization & Translation System
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![Django](https://img.shields.io/badge/Framework-Django-green.svg)
-![Transformers](https://img.shields.io/badge/NLP-HuggingFace-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-
 > An AI-driven web platform that helps lawyers, researchers, and citizens **summarize, analyze, and translate legal documents** in multiple Indian languages.
 
 ---
